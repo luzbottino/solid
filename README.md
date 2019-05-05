@@ -1,2 +1,2 @@
 # solid
-This project is about solid principles learnt on Alura
+This project is about solid principles.
